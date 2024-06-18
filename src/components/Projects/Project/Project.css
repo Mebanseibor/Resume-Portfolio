@@ -1,0 +1,21 @@
+.project_container{
+    margin: 0vh 0vw 0vh 0vw;
+}
+
+.projects_project{
+    margin: 20vh 0vw 20vh 0vw;
+}
+
+.projects_project_title{
+    color: #F2E9E4;
+    
+    font-weight: bold;
+    font-size: 24px;
+
+    text-decoration-thickness: 1px;
+}
+
+.projects_project_description{
+    color: #F2E9E4;
+    font-size: 20px;
+}

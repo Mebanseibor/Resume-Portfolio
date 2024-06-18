@@ -1,0 +1,20 @@
+.links {
+    padding: 0vh 1vw 0vh 1vw;
+}
+
+.links > a{
+    padding: 8px 10px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.links > a:hover {
+    cursor: pointer;
+    
+    background-color: #4A4E69;
+    color: #F2E9E4;
+    text-decoration: none;
+    
+    border-radius: 8px;
+}

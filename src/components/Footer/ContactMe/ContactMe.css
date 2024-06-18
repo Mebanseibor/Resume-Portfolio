@@ -1,0 +1,6 @@
+.contactme_container{
+    padding: 0vh 2vw 0vh 2vw;
+    
+    display : inline-flex;
+    justify-items: center;
+}

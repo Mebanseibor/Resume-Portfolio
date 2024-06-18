@@ -1,0 +1,22 @@
+.techstack_container{
+    padding: 2vh 4vw 2vh 4vw;   /* Top Right Bottom Left */
+    margin: 0px 0px 0px 0px;
+    
+    display: inline-flexbox;
+    align-items: center;
+    justify-content: center;
+
+    /* border-style: solid; */
+}
+
+.techstack_row{
+    padding: 0vh 0vw 0vh 0vw;
+    margin: 0vh 0vw 0vh 0vw;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* border-style: solid; */
+}
